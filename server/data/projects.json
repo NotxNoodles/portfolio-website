@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Synapse - Messaging Web App",
+    "description": "A secure web messenger with email verification, JWT sessions, and role-based access. Access logic pushed into PostgreSQL (RLS + PL/pgSQL), reducing client-side complexity by 40%. Piloted with 10+ concurrent users and iterated on feedback to resolve RLS edge cases.",
+    "imageUrl": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=600",
+    "tags": ["React", "Supabase", "PostgreSQL", "JWT", "WebSockets"],
+    "githubUrl": "https://github.com/NotxNoodles/Synapse-Messenger-Clone",
+    "liveUrl": "https://synapsemessenger.netlify.app/",
+    "category": "Web App"
+  },
+  {
+    "id": "2",
+    "title": "SpotiAnalyzer - Spotify Playlist Analyzer",
+    "description": "A Next.js/React app using the Spotify Web API to profile playlists, artists, and genres. Processed 3,000+ tracks during testing. Implements OAuth 2.0, cursor-based pagination, and rate-limit retries with exponential backoff for large playlists.",
+    "imageUrl": "https://i0.wp.com/musically.com/wp-content/uploads/2025/09/Spotify_Primary_Logo_RGB_Green-e1758795225527.png?fit=780%2C522&ssl=1",
+    "tags": ["Next.js", "TypeScript", "React", "Spotify API", "Tailwind", "Vercel"],
+    "githubUrl": "https://github.com/NotxNoodles/spotify-app",
+    "liveUrl": "https://spotify-app-pwa7.vercel.app/",
+    "category": "Web App"
+  },
+  {
+    "id": "3",
+    "title": "Meal Dealer",
+    "description": "Generated 500+ meal-deal combinations ranked by price and nutrition, saving users 8-12% per basket compared with random selections. Demoed to peers and professors with excellent feedback. Coordinated a 6-person GitHub workflow merging 20+ PRs per week.",
+    "imageUrl": "",
+    "tags": ["Python", "Algorithms", "Agile", "GitHub"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "category": "University"
+  },
+  {
+    "id": "4",
+    "title": "Game of Life",
+    "description": "An interactive implementation of Conway's Game of Life cellular automaton with customizable grid sizes and patterns.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif",
+    "tags": ["Python", "Simulation", "Algorithms"],
+    "githubUrl": "https://github.com/NotxNoodles/game_of_life",
+    "liveUrl": "https://game-of-life-fawn-mu.vercel.app/",
+    "category": "Simulation"
+  }
+]
