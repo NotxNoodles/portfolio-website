@@ -20,16 +20,6 @@
     "category": "Web App"
   },
   {
-    "id": "3",
-    "title": "Meal Dealer",
-    "description": "Generated 500+ meal-deal combinations ranked by price and nutrition, saving users 8-12% per basket compared with random selections. Demoed to peers and professors with excellent feedback. Coordinated a 6-person GitHub workflow merging 20+ PRs per week.",
-    "imageUrl": "",
-    "tags": ["Python", "Algorithms", "Agile", "GitHub"],
-    "githubUrl": "",
-    "liveUrl": "",
-    "category": "University"
-  },
-  {
     "id": "4",
     "title": "Game of Life",
     "description": "An interactive implementation of Conway's Game of Life cellular automaton with customizable grid sizes and patterns.",

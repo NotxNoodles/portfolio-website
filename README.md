@@ -2,7 +2,7 @@
 
 A personal portfolio built with a dark gradient theme, scroll-triggered animations, and filterable project cards.
 
-**Live site:** _coming soon (Vercel)_
+**Live site:** https://portfolio-website-7idvmgofz-aaq1795-gmailcoms-projects.vercel.app/
 
 ## Features
 
@@ -29,22 +29,6 @@ Edit `public/data/projects.json`. Each project has this shape:
 }
 ```
 
-Commit, push, and Vercel will redeploy automatically.
-
-## Local Development
-
-Open `public/index.html` directly in a browser, or serve the `public/` folder with any static server:
-
-```bash
-npx serve public
-```
-
-## Deploying to Vercel
-
-1. Import this repo in the [Vercel dashboard](https://vercel.com/new)
-2. Vercel will detect the `vercel.json` and serve the `public/` directory
-3. Deploy — no environment variables needed
-
 ## Tech Stack
 
 | Layer | Tech |
@@ -52,6 +36,9 @@ npx serve public
 | Frontend | HTML, CSS, JavaScript (vanilla) |
 | Data | Static JSON file |
 | Deployment | Vercel (static) |
+
+
+Vibecoded with Cursor
 
 ## License
 
