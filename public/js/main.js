@@ -88,7 +88,7 @@ async function loadProjects() {
   const filterContainer = document.getElementById('projectsFilter');
 
   try {
-    const res = await fetch('/api/projects');
+    const res = await fetch('/data/projects.json');
     if (!res.ok) throw new Error('Failed to fetch projects');
     const projects = await res.json();
 
